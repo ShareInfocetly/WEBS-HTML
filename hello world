@@ -2,7 +2,7 @@
 <title> HELLO GUYS </title>
 <head>HELLO</head>
 <body background="i.jfif">
-<h1 align="center">HEY BRO</h1>
+<h3 align="center">HEY BRO</h3>
 <marquee bgcolor="white" direction="right"><h2>HELLO</h2></marquee>
 </body>
 </hyml>
