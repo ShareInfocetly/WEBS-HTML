@@ -1,8 +1,0 @@
-<html>
-<title> HELLO GUYS </title>
-<head></head>
-<body background="i.jfif">
-<h1 align="center" style="color:grey; font-size:60px; font-family:monospace;">HELLO WORLD</h1>
-<marquee bgcolor="white" direction="right"><h2 style="color:green; font-size:50px; font-family:fantasy ;">HELLO</h2></marquee>
-</body>
-</html>
