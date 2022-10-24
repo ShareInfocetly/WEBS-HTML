@@ -1,7 +1,14 @@
 <html>
 
 <title> HELLO peeps </title>
-<head></head>
+<head>HELLO WHAT's UP</head>
+<body background="i.jfif">
+<h3 align="center">HEY DUDE</h3>
+<marquee bgcolor="yellow" direction="left"><h2>HEY</h2></marquee>
+=======
+<h1 align="center">HEY DUDE</h1>
+<marquee bgcolor="yellow" direction="left"><h2>HELLO WORLD</h2></marquee>
+</body>
 
 <title> HELLO GUYS </title>
 <head>HELLO HOW ARE YOU</head>
@@ -13,4 +20,4 @@
 <h1 align="center">HEY BRO</h1>
 <marquee bgcolor="white" direction="right"><h2>HELLO WORLD</h2></marquee>
 </body>
-</hyml>
+</html>
