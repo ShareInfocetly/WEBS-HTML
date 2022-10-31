@@ -11,12 +11,12 @@ ignores it.
 
 <p>
 This paragraph
-contains      a lot of spaces
-in the source     code,
-but the    browser 
+contains a lot of spaces
+in the source code,
+but the browser 
 ignores it.
 </p>
-<br> I am a +2 student
+<br> I am a +2 student at a government school, Chengannasherry
 <p>
 The number of lines in a paragraph depends on the size of the browser window. If you resize the browser window, the number of lines in this paragraph will change.
 </p>
